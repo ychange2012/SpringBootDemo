@@ -1,2 +1,5 @@
-SpringBootDemo ¿ìËÙ¹¹½¨REST·ç¸ñ½Ó¿ÚAPI ÊÊÓÃÓÚ¿ì½Ý¿ª·¢µÄÐ¡ÏîÄ¿
-¼¯³ÉDruidÊý¾ÝÔ´
+SpringBootDemo 
+<br>
+å¿«é€Ÿæž„å»ºRESTé£Žæ ¼æŽ¥å£API 
+<br>é€‚ç”¨äºŽå¿«æ·å¼€å‘çš„å°é¡¹ç›® 
+<br>é›†æˆDruidæ•°æ®æº
